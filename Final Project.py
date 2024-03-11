@@ -1,19 +1,15 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[3]:
 
 
 get_ipython().system('pip install spotipy')
 
 
-# In[4]:
 
 
 get_ipython().system('pip install ticketpy')
 
 
-# In[6]:
+
 
 
 import spotipy
